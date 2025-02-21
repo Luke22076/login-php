@@ -1,4 +1,4 @@
-# Login Page
+# Login Page with PHP
 
 This is a simple login system with user and admin dashboards, implemented in PHP and MySQL.
 
