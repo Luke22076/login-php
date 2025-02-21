@@ -2,14 +2,10 @@
 
 This is a simple login system with user and admin dashboards, implemented in PHP and MySQL.
 
----
-
 ## Requirements
 
 - XAMPP or any other web server with PHP and MySQL support
 - Web browser
-
----
 
 ## Installation
 
@@ -55,8 +51,6 @@ This is a simple login system with user and admin dashboards, implemented in PHP
     ?>
     ```
 
----
-
 ## Usage
 
 1. Open a web browser and navigate to `http://localhost/login-page/register.php` to register a new user.
@@ -68,8 +62,6 @@ This is a simple login system with user and admin dashboards, implemented in PHP
 4. On the admin dashboard page, you can view a list of all users and add new users.
 
 5. On the secure page (`secure_page.php`), you can see how long you've been logged in.
-
----
 
 ## License
 
